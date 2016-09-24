@@ -16,6 +16,9 @@
   ],
   "author": "Kevin Peters <kwpeters@gmail.com>",
   "license": "MIT",
+  "engines" : {
+    "node" : ">=5.9.1"
+  },
   "bugs": {
     "url": "https://github.com/kwpeters/arg-inquirer/issues"
   },
